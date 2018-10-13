@@ -51,6 +51,8 @@ body{
 .pcont{
     background: #fff;
     border: #dddddd solid 1px;
+    margin-top: 20px;
+    padding-top: 10px;
 }
 .pcont h3{
     color: #4aaaa5;
@@ -69,7 +71,7 @@ margin-left: 10px;
 .portcont{
     width: 800px;
     margin: auto;
-    height: 800px;
+    height: 900px;
     overflow: scroll;
     position: relative;
 }
@@ -92,7 +94,25 @@ margin-left: 10px;
     background: #4aaaa5;
 }
 .ccont{
+    margin-top: 20px;
+    padding-top: 10px;
     background: #fff;
     border: #dddddd 1px solid;
     height: 800px;
+}
+.beforefooter{
+    height: 10px;
+    background: #4aaaa5;
+    width: 100%;
+    position: fixed;
+    bottom: 30px;
+}
+.footer{
+    width: 100%;
+    height: 30px;
+    padding-top: 5px;
+    background: #666666;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
 }
