@@ -65,7 +65,7 @@ body{
 margin-left: 10px;
 }
 .custom{
-    padding-left: 0px;
+    padding-left: 10px;
 }
 /*portfolio setting*/
 .portcont{
@@ -74,9 +74,6 @@ margin-left: 10px;
     height: 900px;
     overflow: scroll;
     position: relative;
-}
-.col-md-6, .col-lg-6, .col-sm-2{
-    margin-top:10px;
 }
 .portcont img{
     width: 300px;
